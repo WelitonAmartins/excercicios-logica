@@ -20,14 +20,14 @@ Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o 
 public class Uri01 {
 
 	public static void main(String[] args) {
-		Scanner teclado = new Scanner(System.in);
-		int A = teclado.nextInt();
-		int B = teclado.nextInt();
-		int X = A + B;
+		Scanner scan = new Scanner(System.in);
+		int A, B, X;
 		
+		A = scan.nextInt();
+		B = scan.nextInt();
+		X = A+B;
 		
-		
-		System.out.print("X = "+ X);
+		System.out.println("X = "+X);
 		
 
 	}
