@@ -1,4 +1,4 @@
-package ExcerciciosLogicos;
+package excerciciosLogicos;
 
 public class SomaDos100prim {
 //Soma de 10 á 100

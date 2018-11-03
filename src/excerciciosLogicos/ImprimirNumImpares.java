@@ -1,4 +1,4 @@
-package ExcerciciosLogicos;
+package excerciciosLogicos;
 
 import javax.swing.JOptionPane;
 

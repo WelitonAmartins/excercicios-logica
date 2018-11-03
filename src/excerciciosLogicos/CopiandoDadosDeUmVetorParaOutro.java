@@ -1,4 +1,4 @@
-package ExcerciciosLogicos;
+package excerciciosLogicos;
 
 public class CopiandoDadosDeUmVetorParaOutro {
 	public static void main(String[]args) {

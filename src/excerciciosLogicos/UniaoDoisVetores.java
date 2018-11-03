@@ -1,4 +1,4 @@
-package ExcerciciosLogicos;
+package excerciciosLogicos;
 /*
  * Faça um algoritmo que faça a união de dois vetores de mesmo tamanho
  * e mesmo tipo em um terceiro vetor com dobro do tamanho.

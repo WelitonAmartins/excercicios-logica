@@ -1,4 +1,4 @@
-package ExcerciciosLogicos;
+package excerciciosLogicos;
 
 import java.util.Arrays;
 import java.util.Random;
